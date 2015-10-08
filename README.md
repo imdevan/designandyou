@@ -1,2 +1,1 @@
-# designandyou
-A design talk for hackathoners
+A design talk for hackathoners.
