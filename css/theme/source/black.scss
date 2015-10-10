@@ -1,7 +1,4 @@
-@font-face {
-    font-family: "Majesti";
-    src: url(Majesti-Banner-Heavy.otf);
-}
+
 /**
  * Black theme for reveal.js. This is the opposite of the 'white' theme.
  *
@@ -18,7 +15,10 @@
 // Include theme-specific fonts
 @import url(../../lib/font/source-sans-pro/source-sans-pro.css);
 
-
+@font-face {
+    font-family: "Majesti";
+    src: url(Majesti-Banner-Heavy.otf);
+}
 .majestic {
     font-family: "Majesti" !important;
 }
